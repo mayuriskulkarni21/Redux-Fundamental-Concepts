@@ -6,7 +6,7 @@ Run the aaplication using command:
 npm start
 ```
 
-##How to use:
+## How to use:
 
 Open the console of browser using F12 key.
 
